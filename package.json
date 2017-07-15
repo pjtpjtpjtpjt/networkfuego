@@ -1,6 +1,9 @@
 {
   "name": "networkfuego",
   "version": "1.0.0",
+  "dependencies": {
+    "mongojs": "2.4.0"
+  },
   "description": "networking tool",
   "main": "index.html",
   "scripts": {
