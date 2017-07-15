@@ -1,0 +1,19 @@
+{
+  "name": "networkfuego",
+  "version": "1.0.0",
+  "description": "networking tool",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pjtpjtpjtpjt/networkfuego.git"
+  },
+  "author": "Paul Thompson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pjtpjtpjtpjt/networkfuego/issues"
+  },
+  "homepage": "https://github.com/pjtpjtpjtpjt/networkfuego#readme"
+}
